@@ -1,6 +1,12 @@
-import data from '../content/data.json'
+'use client'
 
-export const dynamic = 'force-static'
+import { useEffect, useState } from 'react'
+import initialData from '../content/data.json'
+
+// Data refreshes client-side from the repo (raw.githubusercontent.com), so new
+// content only needs a git push — no Vercel build (free-tier deploy quota).
+const RAW_URL =
+  'https://raw.githubusercontent.com/tomas-b/congreso/main/content/data.json'
 
 const TYPE_LABEL = {
   nota: 'nota', procedimiento: 'procedimiento', privilegio: 'privilegio',
@@ -36,6 +42,25 @@ function Dome() {
 }
 
 export default function Page() {
+  const [data, setData] = useState(initialData)
+
+  useEffect(() => {
+    let alive = true
+    const load = async () => {
+      try {
+        const res = await fetch(`${RAW_URL}?t=${Date.now()}`, { cache: 'no-store' })
+        if (res.ok) {
+          const fresh = await res.json()
+          if (alive && fresh?.generatedAt !== data.generatedAt) setData(fresh)
+        }
+      } catch {}
+    }
+    load()
+    const id = setInterval(load, 60_000)
+    return () => { alive = false; clearInterval(id) }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
   const chunks = [...data.chunks].reverse()
   const timeline = [...(data.timeline || [])].reverse()
   const done = chunks.filter((c) => c.text).length

@@ -26,9 +26,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="es" className={`${display.variable} ${body.variable} ${cond.variable}`}>
-      <head>
-        <meta httpEquiv="refresh" content="60" />
-      </head>
       <body>{children}</body>
     </html>
   )
