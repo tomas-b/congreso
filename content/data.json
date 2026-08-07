@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T01:31:28.414880-03:00",
+ "generatedAt": "2026-08-07T01:38:44.719747-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "✅ APROBADA EN GENERAL 37–33 — sigue la votación en particular",
-  "detail": "La ley — reducida sobre la hora a expropiaciones/ley Pierri, desalojos y registro tras el retiro de los capítulos de tierras y de manejo del fuego — se aprobó en general 37 a 33 (sin abstenciones), un margen más estrecho que el 38–31 de la vuelta a comisión. Ahora se vota en particular capítulo por capítulo (moción Coto) por medios electrónicos."
+  "headline": "✅ Aprobada en general 37–33 — votación en particular en curso",
+  "detail": "Capítulo 1 (expropiaciones/ley Pierri) aprobado 37–33 con la tasa de mora suavizada a IPC + tasa pasiva. Se trata ahora el capítulo 2 (desalojos), con protecciones reforzadas para menores, discapacitados y adultos mayores (art. 680 quater) leídas en el recinto. Restan desalojos y registro; después, media sanción y giro a Diputados."
  },
  "votes": [
   {
@@ -30,6 +30,12 @@
    "name": "VOTACIÓN EN GENERAL (sin capítulos de tierras ni fuego)",
    "result": "aprobada",
    "tally": "37–33, 0 abst."
+  },
+  {
+   "time": "01:32",
+   "name": "En particular — Capítulo 1: Expropiaciones + ley Pierri",
+   "result": "aprobada",
+   "tally": "37–33"
   }
  ],
  "nextSteps": [
@@ -1471,6 +1477,27 @@
    "start": "2026-08-07T04:31:11+00:00",
    "end": "2026-08-07T04:33:11+00:00",
    "label": "01:31–01:33",
+   "text": "el sistema de tasación por parte del Tribunal de Tasación, sino el mecanismo de peritaje y la utilización respecto del mismo como la tasación del bien mueble o inmueble para el monto indemnizatorio correspondiente. Esas son, en general, una serie de observaciones que nosotros instituimos y también respecto a la modificación de la Ley 24.374, aquí se incorpora en el dictamen de mayoría, que es la última versión del texto, una modificación del artículo 11, que es el artículo primero, que se establece, se modifica el plazo de tres años por diez años. Nosotros ratificamos el plazo de diez años. Por eso, objetivamente, vamos a votar en particular en contra con las observaciones que formulamos oportunamente y dejamos en constancia en el debate. Gracias senador Capitanich senador Cotto que no hubo propuestas No hubo propuestas formales de modificaciones sino no es la voluntad de los miembros del dictamen de mayor de que aceptan modificaciones. No aceptan modificaciones, señor Capitanich. Por favor, se vota el capítulo. Entonces, resulta... Carol... Falta identificarse del senador Moisés. Se vota el capítulo 1. Resultado."
+  },
+  {
+   "id": "live_20260807_043309Z",
+   "start": "2026-08-07T04:33:09+00:00",
+   "end": "2026-08-07T04:35:09+00:00",
+   "label": "01:33–01:35",
+   "text": "Supongo que se vote el capítulo 2, correspondiente a los artículos 12 a 23, inclusive, por secretaría, en realidad, va a leer el miembro informante las modificaciones o pedirá ayuda a la secretaría. La propuesta es incorporar dos modificaciones en el capítulo 2, en los artículos 16 y 20, si pueden ser líos por secretaría. Muchas gracias. Correcto, senador Cotto, se lee por secretaría Capítulo segundo, artículo 16 Incorpórese al artículo 680, cuater Al código procesal civil y comercial de la Nación Que quedará redactado de la siguiente manera Artículo 680, cuater Protección de sujetos vulnerables En los procesos de desalojo Donde se acredite la presencia de menores de edad Personas con discapacidad o adultos mayores en situaci de desamparo el juez previo a ejecutar el lanzamiento deber dar la intervenci obligatoria a los organismos de protecci locales y al Ministerio Público Tutelar, disponiendo un plazo prudencial que no excederá de 10 días para asegurar una alternativa habitacional transitoria sin perjuicio de la continuidad del proceso. En este marco, la caución juratoria sólo será admisible cuando la similitud del derecho del actor resulte inequívoca y no se comprometan derechos de terceros ocupantes de buena fe. En caso de duda, el magistrado podrá exigir una fianza personal o real suficiente para garantizar eventuales daños y perjuicios. Artículo 20. Sustituyese el artículo 684 bis del Código Procesal Civil y Comercial de la Nación por el siguiente. Artículo 684 bis."
+  },
+  {
+   "id": "live_20260807_043507Z",
+   "start": "2026-08-07T04:35:07+00:00",
+   "end": "2026-08-07T04:37:07+00:00",
+   "label": "01:35–01:37",
+   "text": "bajo caución juratoria la desocupación inmediata de acuerdo al procedimiento y plazo previsto por las partes. En caso de que las partes no lo hubieran pactado, se aplicará el procedimiento del artículo 680 bis. Para el supuesto en que se probare que el actor obtuvo esa medida ocultando hechos o documentos que configuraren la relación locativa o el pago de alquileres, se le impondrá una multa de hasta 10 veces el monto del último canon locativo en favor de la contraparte. Senadora Terensi, ¿pido la palabra? Tiene la palabra. Sí, señor presidente, para reiterar mi abstención en este capítulo. Por favor, regístrese la abstención de la senadora Terensi. Ha solicitado la palabra el senador Capitanich. Realmente nosotros vamos a manifestar nuestro voto en contra aunque propiciamos y no nos pudimos poner de acuerdo en la redacci porque era nuestra voluntad respecto a la diferenciaci cualitativa Ac se hace una observaci desde el punto de vista del art 684 Nosotros habíamos hecho una diferenciación cualitativa mucho más específica respecto al tema de la ocupación de carácter ilegal respecto a la ocupación legal de carácter contractual. y planteábamos el plazo máximo de 15 días para resolución del problema o un plazo máximo de 180 días con un procedimiento concreto. Eso no se pudo lograr el consenso, por eso dejamos nuestra observación y por lo cual votamos en contra. Gracias, senador Capitanich. En consecuencia, no haber hecho una formulación precisa. Correcto. Bueno, se propongo, se vote el capítulo 2 correspondiente a los artículos 12 a 23, inclusive en conformidad a los cambios propuestos. Se vota."
+  },
+  {
+   "id": "live_20260807_043711Z",
+   "start": "2026-08-07T04:37:11+00:00",
+   "end": "2026-08-07T04:39:11+00:00",
+   "label": "01:37–01:39",
    "text": null
   }
  ]
