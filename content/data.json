@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T21:52:37.909840-03:00",
+ "generatedAt": "2026-08-06T21:57:39.735618-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -20,7 +20,7 @@
    "tally": "a mano alzada"
   },
   {
-   "time": "~15:30",
+   "time": "16:00",
    "name": "Moción de vuelta a comisión (Mayans, UP)",
    "result": "rechazada",
    "tally": "38–31"
@@ -129,10 +129,100 @@
    "detail": "Presenta el dictamen de mayoría capítulo por capítulo; anuncia el retiro formal del capítulo 3 (tierras) y ajustes para la votación en particular; cruces por la numeración (una versión nueva llegó 12:45)."
   },
   {
-   "time": "~15:30",
+   "time": "15:40",
+   "type": "discurso",
+   "speaker": "José Mayans",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "Denuncia nulidad y pide volver a comisión",
+   "detail": "El jefe del interbloque dice que hubo 17 versiones y el texto llegó 12:45 sin conocerse; el título «miente» porque la inviolabilidad ya la garantiza el art. 17; la ley favorece a «grupos y élites»."
+  },
+  {
+   "time": "16:00",
    "type": "votacion",
    "title": "Vuelta a comisión rechazada 38–31",
    "detail": "La moción de Mayans (UP) es derrotada: primer termómetro del número para la votación en general."
+  },
+  {
+   "time": "16:03",
+   "type": "discurso",
+   "speaker": "Jorge Capitanich",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«No es inviolabilidad, es coloniaje»",
+   "detail": "El dictamen 17 viola la Ley General del Ambiente, Escazú y el Convenio 169 OIT; propone emergencia dominial para 6.467 barrios populares y separar usurpaciones de conflictos contractuales."
+  },
+  {
+   "time": "16:14",
+   "type": "discurso",
+   "speaker": "Daniel Bensusán",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«Quienes voten esta ley son entreguistas»",
+   "detail": "El dictamen llegó sin membrete ni firma, negociado con Sturzenegger; citan rechazos de COFEMA, fiscalías ambientales y Cáritas; advierte que Peter Thiel busca tierra, energía y agua en la Patagonia."
+  },
+  {
+   "time": "16:27",
+   "type": "discurso",
+   "speaker": "Ana Marks",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«La movilización frenó la extranjerización por cuarta vez»",
+   "detail": "Contra el cambio a la ley de fuego (95% de incendios por causas humanas, presupuesto subejecutado 80%) y los desalojos exprés con 8 millones de inquilinos."
+  },
+  {
+   "time": "16:42",
+   "type": "discurso",
+   "speaker": "María Belén Montes de Oca",
+   "bloc": "LLA",
+   "stance": "a_favor",
+   "title": "Defiende los desalojos sumarísimos",
+   "detail": "En Tierra del Fuego ya rigen; el nuevo art. 680 quater protege a menores, discapacitados y adultos mayores con intervención estatal en 10 días."
+  },
+  {
+   "time": "16:53",
+   "type": "discurso",
+   "speaker": "Marcelo Lewandowski",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«Estatuto legal del coloniaje del siglo XXI»",
+   "detail": "Encadena ley bases, RIGI, esta ley y el super RIGI como plan por el litio, cobre y agua; «el problema no es el gringo que nos compra sino el criollo que nos vende»."
+  },
+  {
+   "time": "17:10",
+   "type": "discurso",
+   "speaker": "Alicia Kirchner",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "Alerta por campesinos y pueblos originarios",
+   "detail": "Casi 10 millones de hectáreas ocupadas por familias sin títulos y 1.878 comunidades originarias quedarían desprotegidas; el plazo de 10 días es de imposible cumplimiento."
+  },
+  {
+   "time": "17:18",
+   "type": "discurso",
+   "speaker": "Gonzalo Gosmán Corahita",
+   "bloc": "LLA",
+   "stance": "a_favor",
+   "title": "«Hoy volvemos a la Constitución»",
+   "detail": "El sumarísimo no es «juicio exprés» sino tutela judicial efectiva; cita antecedentes de Salta, Chaco y Tierra del Fuego."
+  },
+  {
+   "time": "17:28",
+   "type": "discurso",
+   "speaker": "Adán Bahl",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "Anticipa voto negativo por la ley de fuego",
+   "detail": "Eliminar la prohibición de cambiar el uso del suelo quemado borra el único disuasivo contra incendios intencionales; el acueducto de Paraná habría quedado años en tribunales con la nueva expropiación."
+  },
+  {
+   "time": "17:38",
+   "type": "discurso",
+   "speaker": "Mariano Recalde",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«Victoria parcial, pero quedan capítulos terroríficos»",
+   "detail": "La ley habilita desalojos exprés de inquilinos por atraso, blinda privatizaciones vía expropiaciones y sube de 3 a 10-20 años la regularización dominial (6 millones de afectados)."
   },
   {
    "time": "17:45",
@@ -283,6 +373,15 @@
    "speaker": "Benegas Lynch / Soria",
    "title": "Cruce por alusión",
    "detail": "Benegas Lynch responde por alusión y defiende la alianza LLA+UCR+PRO; la presidencia pide orden."
+  },
+  {
+   "time": "21:32",
+   "type": "discurso",
+   "speaker": "Martín Soria",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "«Quieren garantizar que nunca recuperemos lo que malvendan»",
+   "detail": "La reforma de expropiaciones encarece deliberadamente recuperar empresas privatizadas (con este texto YPF seguiría siendo de Repsol); cita inversión extranjera neta negativa, el informe del FMI sobre la ola mundial de nacionalizaciones, y cierra contra los desalojos exprés y la ley de fuego: «discutimos si Argentina sigue siendo dueña de su destino»."
   }
  ],
  "context": {
@@ -530,6 +629,13 @@
    "start": "2026-08-07T00:51:29+00:00",
    "end": "2026-08-07T00:56:29+00:00",
    "label": "21:51–21:56",
+   "text": "de sus ingresos por su trabajo en pagar alquiler, y ustedes en 10 días o menos a la calle, por un día de atraso en el alquiler. Parece que no quieren reconocer que el problema es que hay millones de argentinos que ya no pueden pagar el alquiler. Para ustedes los libertarios el problema es que tardan demasiado en desalojarlos. Ese es el problema que ustedes están viendo. Y no que gracias a su modelo la gente no llega a fin de mes y no puede ni pagar el alquiler. Para ustedes el problema son los desalojos, todo al revés. Nosotros creemos que el Estado debe estar más presente que nunca. Otra de las modernificaciones que pretende imponer este proyecto al que le ayudaron en el capítulo 3, quizás peor, el capítulo 4, la ley de manejo del fuego. Y acá hay que ser verdaderamente muy claros, porque estamos hablando del futuro ambiental y productivo de la Argentina. El capítulo 4 directamente es totalmente inconstitucional, absolutamente regresivo en materia ambiental va en contra de toda la legislaci y de la constituci del acuerdo de Escaz de los acuerdos y convenios internacionales que se firmaron Miren, no me hagan caso a mí, lo trajeron a Zapsay a defender el proyecto. Zapsay, no van a decir que Zapsay es peronista. Lo trajeron a Zapsay y le dijo en la cara, muchachos, es inconstitucional lo que quieren hacer. es inconstitucional esta modificación que ustedes pretenden. Zabzai se los dijo y siguen adelante. Pero más allá de la inconstitucionalidad y la inviabilidad de lo que proponen, en mi provincia, en Río Negro, y en toda nuestra zona andina patagónica, sufrimos incendios forestales, habrán visto este verano que pasó, tremendos. Entre diciembre del 2025 y enero de este 2026, el fuego consumió más de 230.000 hectáreas entre la provincia de Chubut, La Pampa, Río Negro, Neuquén, Santa Cruz solamente en la región de los bosques andinos que ustedes muchos ven por foto 80 hect fueron devastadas por los incendios de este verano en el bosque andino este verano que pas y en el cap 4 de esta ley que algunos quieren votar habilitan nada m ni nada menos que a la especulaci y al negocio inmobiliario nada más ni nada menos que los terrenos afectados en esos mismos terrenos donde hay récord de incendios forestales. ¿Cuál es la idea que persiguen? Díganlo. Quieren desproteger casi 2 millones de hectáreas de bosques en la Argentina. buscan eliminar la prohibición de cambiar el uso de la tierra incendiada, buscando, claro, como siempre, generar un negocio económico, después de un incendio muchas veces intencional. Si en las tierras incendiadas se va a poder lotear, si en las tierras, miren, yo se lo quiero hacer muy claro, si en las tierras incendiadas, si en los bosques incinerados, como los que vimos las imágenes del verano pasado, ustedes con esta ley pretenden habilitar un negocio inmobiliario como el que pretenden, prepárense para ver lo que van a ver, lamentable y tristemente, el próximo verano. Es lo mismo que estamos viendo hoy en Europa, a ustedes que tanto les gusta lo de afuera Prep para ver miles y miles de hect m destruidas por habilitar un negocio inmobiliario Por eso nosotros tampoco vamos a acompa esto Y la verdad que, señor presidente, esto es lo que esconde este proyecto que lleva este nombre tramposo, que le puso nada más ni nada menos que el cínico de esta escena, que voy cerrando. Capítulo 1, hacen imposible y muchísimo más caras las expropiaciones. Capítulo 2, perjudican a todos los inquilinos con los desalojos express. Capítulo 3, que por suerte se cayó gracias a la sociedad argentina, entregaban todo nuestro territorio a los extranjeros, incluso a otros países, es igual. Capítulo 4, fomentan el negocio inmobiliario a costa de los incendios en nuestros bosques y en la Argentina. y la verdad que no estamos en este recinto, presidente, discutiendo solamente una modificación legislativa, no estamos discutiendo una modificación legislativa, estamos discutiendo si la Argentina va a seguir siendo dueña y soberana de su propio destino o si va en definitiva, como quieren ustedes, a convertirse en inquilina de negocio."
+  },
+  {
+   "id": "live_20260807_005623Z",
+   "start": "2026-08-07T00:56:23+00:00",
+   "end": "2026-08-07T01:01:23+00:00",
+   "label": "21:56–22:01",
    "text": null
   }
  ]
