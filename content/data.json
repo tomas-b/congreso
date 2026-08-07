@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T01:40:58.566334-03:00",
+ "generatedAt": "2026-08-07T01:41:33.984622-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "✅ Aprobada en general 37–33 — votación en particular en curso",
-  "detail": "Capítulo 1 (expropiaciones/ley Pierri) aprobado 37–33 con la tasa de mora suavizada a IPC + tasa pasiva. Se trata ahora el capítulo 2 (desalojos), con protecciones reforzadas para menores, discapacitados y adultos mayores (art. 680 quater) leídas en el recinto. Restan desalojos y registro; después, media sanción y giro a Diputados."
+  "headline": "Últimos artículos en votación — media sanción inminente",
+  "detail": "Aprobados en particular: expropiaciones/ley Pierri (37–33), desalojos (36–33, abstención de Terenzi) y registro (37–33). Se vota el capítulo final de forma: con él, la ley — sin tierras ni manejo del fuego — obtiene media sanción y pasa a Diputados."
  },
  "votes": [
   {
@@ -34,6 +34,18 @@
   {
    "time": "01:32",
    "name": "En particular — Capítulo 1: Expropiaciones + ley Pierri",
+   "result": "aprobada",
+   "tally": "37–33"
+  },
+  {
+   "time": "01:40",
+   "name": "En particular — Capítulo 2: Desalojos",
+   "result": "aprobada",
+   "tally": "36–33, 1 abst. (Terenzi)"
+  },
+  {
+   "time": "01:41",
+   "name": "En particular — Capítulo 5: Registro de la propiedad",
    "result": "aprobada",
    "tally": "37–33"
   }
@@ -1505,6 +1517,13 @@
    "start": "2026-08-07T04:39:10+00:00",
    "end": "2026-08-07T04:41:10+00:00",
    "label": "01:39–01:41",
+   "text": "Estamos en el capítulo 6, en la votación del capítulo 6. Está votando, senador, ya está todo aclarado. Aparte son los de forma. Faltan Gadano, juez y Krohneberger votar. Pero que está votando. después de la votación le doy la palabra resultado afirmativo 37 negativo 33, abstención es cero resultado aprobado en general y en particular el proyecto de ley del Poder Ejecutivo Nacional sobre inviolabilidad de la propiedad privada se comunica a la honorable de C de Diputados por favor no se vayan no se vayan por favor No se vayan no se vayan No se vayan que hay otros temas m Senador Uñac, Senador Celeste, Pali, por favor. Lo leo rápido. Se solicita asentamiento del cuerpo a fin de facultar a la Dirección General de Secretaría que depende de la Secretaría Parlamentaria de esta honorable Cámara a realizar según las pautas de estilo las correcciones concernientes a la renumeración de capítulos, secciones, artículos, incisos, apartados remisiones y demás cuestiones de forma que considere pertinente para la comunicación del proyecto de ley sancionado por este cuerpo se solicita el sentamiento, lo hacemos de manera se vota a mano alzada, resulta aprobado no habiendo más asunto que tratar ahora sí queda levantada la sesión gracias"
+  },
+  {
+   "id": "live_20260807_044109Z",
+   "start": "2026-08-07T04:41:09+00:00",
+   "end": "2026-08-07T04:43:09+00:00",
+   "label": "01:41–01:43",
    "text": null
   }
  ]
