@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Sesión Congreso — transcripción en vivo',
   description: 'Transcripción y resumen en vivo de la sesión del Senado argentino',

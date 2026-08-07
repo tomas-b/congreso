@@ -1,18 +1,41 @@
-import fs from 'fs'
-import path from 'path'
+import data from '../content/data.json'
 
 export const dynamic = 'force-static'
 
-// content/session.html is regenerated locally and pushed; each push triggers a
-// fresh Vercel build, so reading it at build time is enough.
 export default function Page() {
-  const raw = fs.readFileSync(path.join(process.cwd(), 'content', 'session.html'), 'utf8')
-  const style = (raw.match(/<style>([\s\S]*?)<\/style>/) || [])[1] || ''
-  const body = (raw.match(/<body>([\s\S]*?)<\/body>/) || [])[1] || raw
+  const chunks = [...data.chunks].reverse()
+  const done = chunks.filter((c) => c.text).length
+  const generated = new Date(data.generatedAt).toLocaleTimeString('es-AR', {
+    hour: '2-digit', minute: '2-digit', timeZone: 'America/Argentina/Buenos_Aires',
+  })
   return (
-    <>
-      <style dangerouslySetInnerHTML={{ __html: style }} />
-      <div dangerouslySetInnerHTML={{ __html: body }} />
-    </>
+    <main>
+      <header>
+        <h1>{data.session.title}</h1>
+        <div className="meta">
+          {data.session.topic} · {chunks.length} bloques capturados, {done} transcritos ·
+          actualizado {generated} (hora AR) · se refresca solo cada 60 s ·{' '}
+          <a href={data.session.youtube}>stream original</a>
+        </div>
+      </header>
+
+      {data.summaryHtml && (
+        <div className="summary" dangerouslySetInnerHTML={{ __html: data.summaryHtml }} />
+      )}
+
+      <h2 className="divider">Transcripción completa (más reciente arriba)</h2>
+      {chunks.map((c) => (
+        <section key={c.id}>
+          <h2>
+            {c.label} <span className="tag">{c.id}</span>
+          </h2>
+          {c.text ? (
+            <p className="text">{c.text}</p>
+          ) : (
+            <p className="pending">⏳ transcribiendo…</p>
+          )}
+        </section>
+      ))}
+    </main>
   )
 }
