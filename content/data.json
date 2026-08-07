@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T00:38:02.073948-03:00",
+ "generatedAt": "2026-08-07T00:40:04.180095-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "Cierres de bloque en curso — votación inminente",
-  "detail": "Terminó la lista de oradores: habla Mayans (cierre del interbloque peronista) y luego cierra el oficialismo antes de votar. Posiciones anunciadas: UP (25), Convicción Federal (3), Fte. Cívico (2), Movere (2) y Vigo votan en contra; los dialoguistas se parten por capítulo (Terenzi: sí a expropiaciones y registro, abstención en desalojos, no a fuego). La referencia sigue siendo el 38–31 de la vuelta a comisión; el capítulo de manejo del fuego es el de margen más ajustado."
+  "headline": "Habla Bullrich — última oradora antes de la votación",
+  "detail": "Mayans cerró por el interbloque peronista (rechazo total, capítulo por capítulo). Patricia Bullrich hace el cierre oficialista: al terminar se vota en general (nominal electrónica) y luego en particular. Posiciones anunciadas: UP (25), CF (3), Fte. Cívico (2), Movere (2) y Vigo en contra; dialoguistas divididos por capítulo. Referencia: 38–31 de la vuelta a comisión; manejo del fuego, el capítulo más ajustado."
  },
  "votes": [
   {
@@ -459,7 +459,16 @@
    "bloc": "UP",
    "stance": "en_contra",
    "title": "Mayans agita el juicio político: «traición a la patria»",
-   "detail": "En su cierre — que abre con Hiroshima y la geopolítica de los recursos — acusa a Milei de violar la Constitución al autorizar presencia militar de EE.UU. sin el Congreso y lo declara «pasible de juicio político por traición a la patria»; cruce a gritos con una senadora que lo llama «golpista»."
+   "detail": "En su cierre — que abre con Hiroshima y la geopolítica de los recursos — acusa a Milei de violar la Constitución al autorizar presencia militar de EE.UU. sin el Congreso y lo declara «pasible de juicio político por traición a la patria»; cruce a gritos con una senadora que lo llama «golpista». Tras ~35 minutos cierra: «por ser una ley profundamente inconstitucional, nuestro interbloque no va a acompañar»."
+  },
+  {
+   "time": "00:38",
+   "type": "discurso",
+   "speaker": "Patricia Bullrich",
+   "bloc": "LLA",
+   "stance": "a_favor",
+   "title": "Cierre oficialista — último discurso antes de votar",
+   "detail": "«Escuchamos una Argentina que volvió 60 años para atrás»; defiende la ley como corrección de décadas en que «fue fácil quedarse con lo ajeno y no poder recuperar lo propio», citando la toma de Guernica (2020, +100 ha)."
   }
  ],
  "context": {
@@ -1252,6 +1261,13 @@
    "start": "2026-08-07T03:37:43+00:00",
    "end": "2026-08-07T03:39:43+00:00",
    "label": "00:37–00:39",
+   "text": "por grupos de la cámpora, grupos de distintos movimientos llamados sociales, se instalaron meses de conflicto, los propietarios esperando recuperar la justicia de Morando y solo en ese año, para darle una idea, entre el 2020 y el 2021, en la provincia de Buenos Aires hubo 17.000 usurpaciones, 17.000, todas, todas avaladas por el partido que en ese momento estaba en el gobierno. Miraban para otro lado, la justicia no actuaba, la policía se quedaba de costado, mientras los dueños de las propiedades veían usurpar su propiedad. propiedad Y hablan de que respetan la propiedad privada y que est en la Constituci Que est en la Constituci despu hay que llevarla a la pr hay que hacer la realidad no hay que dejarla en un papel y despu usurpar y decir, está bien que usurpen, es correcto que usurpen, los dejamos hacer. En el mismo año, para tomar una comparación en la Ciudad de Buenos Aires, hubo 2.700 usurpaciones. y detrás de cada una de esas usurpaciones hay un propietario, hay una familia, hay alguien que está esperando que el Estado le dé una solución, que puso su plata para comprar y pierde todo porque lo usurpan su territorio, su casa, su pueblo, su lugar. Guernica fue un problema mucho más profundo porque durante mucho tiempo acá en la Argentina se premió al delincuente, al que incumplía"
+  },
+  {
+   "id": "live_20260807_033944Z",
+   "start": "2026-08-07T03:39:44+00:00",
+   "end": "2026-08-07T03:41:44+00:00",
+   "label": "00:39–00:41",
    "text": null
   }
  ]
