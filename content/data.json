@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T21:57:39.735618-03:00",
+ "generatedAt": "2026-08-06T22:00:07.331878-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -392,32 +392,38 @@
    {
     "name": "Interbloque Popular (peronismo)",
     "seats": 25,
-    "stance": "en_contra"
+    "stance": "en_contra",
+    "color": "#009FE3"
    },
    {
     "name": "La Libertad Avanza",
     "seats": 21,
-    "stance": "a_favor"
+    "stance": "a_favor",
+    "color": "#6C4C99"
    },
    {
     "name": "UCR",
     "seats": 10,
-    "stance": "mixto"
+    "stance": "mixto",
+    "color": "#E10019"
    },
    {
     "name": "Impulso País (PRO + provinciales)",
     "seats": 7,
-    "stance": "a_favor"
+    "stance": "a_favor",
+    "color": "#FFD700"
    },
    {
     "name": "Convicción Federal",
     "seats": 3,
-    "stance": "mixto"
+    "stance": "mixto",
+    "color": "#009FB2"
    },
    {
     "name": "Otros provinciales",
     "seats": 6,
-    "stance": "mixto"
+    "stance": "mixto",
+    "color": "#909090"
    }
   ],
   "glossary": [

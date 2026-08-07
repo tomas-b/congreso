@@ -112,13 +112,14 @@ export default function Page() {
               <div className="seatbar">
                 {ctx.blocs.map((b, i) => (
                   <div key={i} className={`seg stance-bg-${b.stance}`}
-                    style={{ width: `${(b.seats / 72) * 100}%` }} title={`${b.name}: ${b.seats}`} />
+                    style={{ width: `${(b.seats / 72) * 100}%`, backgroundColor: b.color }}
+                    title={`${b.name}: ${b.seats}`} />
                 ))}
                 <div className="quorum-tick" style={{ left: `${(37 / 72) * 100}%` }} />
               </div>
               <ul className="bloc-list">
                 {ctx.blocs.map((b, i) => (
-                  <li key={i}><span className={`swatch stance-bg-${b.stance}`} />{b.name} <b>{b.seats}</b></li>
+                  <li key={i}><span className={`swatch stance-bg-${b.stance}`} style={{ backgroundColor: b.color }} />{b.name} <b>{b.seats}</b></li>
                 ))}
               </ul>
             </div>
