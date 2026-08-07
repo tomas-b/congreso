@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T01:41:33.984622-03:00",
+ "generatedAt": "2026-08-07T01:43:39.441257-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "Últimos artículos en votación — media sanción inminente",
-  "detail": "Aprobados en particular: expropiaciones/ley Pierri (37–33), desalojos (36–33, abstención de Terenzi) y registro (37–33). Se vota el capítulo final de forma: con él, la ley — sin tierras ni manejo del fuego — obtiene media sanción y pasa a Diputados."
+  "headline": "🏛️ MEDIA SANCIÓN — la ley pasa a Diputados · sesión levantada",
+  "detail": "Tras casi 12 horas, el Senado aprobó en general (37–33) y en particular la ley de inviolabilidad de la propiedad privada, reducida a expropiaciones/ley Pierri, desalojos y registro: los capítulos de tierras rurales y de manejo del fuego fueron retirados ante la falta de votos. Los cierres: Mayans (rechazo total) y Bullrich (defensa). El proyecto se comunica a Diputados como cámara revisora. Sesión levantada a la 01:42."
  },
  "votes": [
   {
@@ -48,6 +48,12 @@
    "name": "En particular — Capítulo 5: Registro de la propiedad",
    "result": "aprobada",
    "tally": "37–33"
+  },
+  {
+   "time": "01:42",
+   "name": "En particular — Capítulo final de forma → MEDIA SANCIÓN",
+   "result": "aprobada",
+   "tally": "37–33"
   }
  ],
  "nextSteps": [
@@ -56,12 +62,12 @@
    "state": "hecho"
   },
   {
-   "label": "Votación en particular, capítulo por capítulo (en curso)",
-   "state": "pendiente"
+   "label": "Votación en particular — todos los capítulos aprobados (37–33, 36–33, 37–33, 37–33)",
+   "state": "hecho"
   },
   {
-   "label": "Media sanción → pasa a Diputados (cámara revisora)",
-   "state": "pendiente"
+   "label": "Media sanción — HECHO: se comunica a Diputados (cámara revisora)",
+   "state": "hecho"
   },
   {
    "label": "Si Diputados modifica, vuelve al Senado (acepta o insiste)",
@@ -501,6 +507,12 @@
    "bloc": "LLA",
    "title": "🔥 El oficialismo retira TAMBIÉN el capítulo de manejo del fuego",
    "detail": "Sobre la hora de la votación, el miembro informante incorpora «el retiro del capítulo cuarto» (ley de fuego 26.815) además del capítulo de tierras: la segunda gran baja de la noche ante la falta de votos. Se aprueban inserciones y abstenciones a mano alzada y la presidencia ordena la votación en general por medios electrónicos."
+  },
+  {
+   "time": "01:42",
+   "type": "votacion",
+   "title": "🏛️ MEDIA SANCIÓN: aprobada en general y en particular",
+   "detail": "Capítulos aprobados: expropiaciones/ley Pierri 37–33, desalojos 36–33 (abstención Terenzi), registro 37–33 y forma 37–33. La ley — sin tierras ni manejo del fuego — se comunica a la Cámara de Diputados. «No habiendo más asuntos que tratar, queda levantada la sesión»."
   }
  ],
  "context": {
@@ -1524,6 +1536,13 @@
    "start": "2026-08-07T04:41:09+00:00",
    "end": "2026-08-07T04:43:09+00:00",
    "label": "01:41–01:43",
+   "text": "...en el Senado de la Nación. Continuamos en el recinto de la Cámara Alta y veíamos cómo finalmente se votaba en forma general y particular este proyecto de ley sobre inviolabilidad de la propiedad privada. Un proyecto que tuvo muchas horas de debate. Recordemos que esta sesión comenzó pasadas las 14 horas y acaba de finalizar una 41 de la mañana. Con lo cual, bueno, una vez transcurrido todo este tiempo y el debate que se originó aquí en el recinto, entre todos los bloques, sufrió varias modificaciones en su articulado. seis cap se fueron quitados dos cap importantes que tienen que ver con manejo del fuego y tambi la ley de tierras rurales dos de los cap que formaban que constituían el corazón, por decirlo de alguna manera, de este proyecto que envió el Poder Ejecutivo, pero a su vez fueron los más polémicos y los que causaron mayores resistencias. incluso estamos hablando de que hubo cuatro intentos para tratar este proyecto y el día de hoy constituye el quinto día con resultado favorable para el gobierno de la Nación. Es girado a la Cámara de Diputados, con lo cual obtuvo media sanción. Ahora vamos a dialogar con el senador Gerardo Zamora. Gracias por aquí, por favor, del Frente Cívico Santiago del Estero. Bueno, importante, importantísimo lo que ocurrió en el debate del día de hoy en el Senado de la Nación. Se aprobó finalmente el proyecto sobre violabilidad."
+  },
+  {
+   "id": "live_20260807_044307Z",
+   "start": "2026-08-07T04:43:07+00:00",
+   "end": "2026-08-07T04:45:07+00:00",
+   "label": "01:43–01:45",
    "text": null
   }
  ]
