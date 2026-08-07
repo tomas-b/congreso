@@ -1,5 +1,11 @@
 import './globals.css'
-import { Instrument_Serif, Libre_Franklin } from 'next/font/google'
+import { Instrument_Serif, Libre_Franklin, Barlow_Condensed } from 'next/font/google'
+
+const cond = Barlow_Condensed({
+  weight: ['500', '600'],
+  subsets: ['latin'],
+  variable: '--font-cond',
+})
 
 const display = Instrument_Serif({
   weight: '400',
@@ -19,7 +25,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="es" className={`${display.variable} ${body.variable}`}>
+    <html lang="es" className={`${display.variable} ${body.variable} ${cond.variable}`}>
       <head>
         <meta httpEquiv="refresh" content="60" />
       </head>

@@ -12,6 +12,29 @@ const fmtTime = (iso) =>
     hour: '2-digit', minute: '2-digit', timeZone: 'America/Argentina/Buenos_Aires',
   })
 
+function Dome() {
+  const rings = [
+    { r: 46, n: 20, s: 2.0 },
+    { r: 37, n: 16, s: 2.2 },
+    { r: 28, n: 12, s: 2.4 },
+    { r: 19, n: 8, s: 2.6 },
+  ]
+  const dots = []
+  rings.forEach(({ r, n, s }, ri) => {
+    for (let i = 0; i <= n; i++) {
+      const a = (Math.PI * i) / n
+      dots.push(
+        <circle key={`${ri}-${i}`} cx={60 - r * Math.cos(a)} cy={54 - r * Math.sin(a)} r={s} />
+      )
+    }
+  })
+  return (
+    <svg viewBox="0 0 120 58" className="dome" aria-hidden="true">
+      {dots}
+    </svg>
+  )
+}
+
 export default function Page() {
   const chunks = [...data.chunks].reverse()
   const timeline = [...(data.timeline || [])].reverse()
@@ -21,9 +44,12 @@ export default function Page() {
   return (
     <main>
       <header className="masthead">
-        <div className="kicker">
-          <span className="live-dot" /> Senado de la Nación · sesión en vivo ·{' '}
-          <a href={data.session.youtube}>stream</a>
+        <div className="mast-band">
+          <Dome />
+          <div className="kicker">
+            <span className="live-dot" /> Senado de la Nación · sesión en vivo ·{' '}
+            <a href={data.session.youtube}>stream</a>
+          </div>
         </div>
         <h1>Ley de Inviolabilidad de la <em>Propiedad Privada</em></h1>
         <div className="meta-row">
