@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T22:16:03.445233-03:00",
+ "generatedAt": "2026-08-06T22:16:49.124673-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -391,6 +391,15 @@
    "stance": "a_favor",
    "title": "«Confianza y herida»: réplica dura al peronismo",
    "detail": "La ley busca reconstruir la confianza destruida por décadas de «riesgo cuca»; responde a Soria: «esta discusión la dirime el pueblo cada vez que vota, están de salida»; evoca el caso Milagro Sala en Jujuy."
+  },
+  {
+   "time": "22:11",
+   "type": "discurso",
+   "speaker": "Edith Terenzi",
+   "bloc": "Chubut",
+   "stance": "mixto",
+   "title": "Crítica al formato ómnibus, defensa del trabajo dialoguista",
+   "detail": "«Nos hacen jugar a todo o nada» con siete leyes en un solo título — «mala praxis legislativa»; celebra la supresión del capítulo RENABAP y reivindica los dos meses de modificaciones logradas por los bloques dialoguistas."
   }
  ],
  "context": {
@@ -693,6 +702,13 @@
    "start": "2026-08-07T01:15:42+00:00",
    "end": "2026-08-07T01:17:42+00:00",
    "label": "22:15–22:17",
+   "text": null
+  },
+  {
+   "id": "live_20260807_011622Z",
+   "start": "2026-08-07T01:16:22+00:00",
+   "end": "2026-08-07T01:18:22+00:00",
+   "label": "22:16–22:18",
    "text": null
   }
  ]
