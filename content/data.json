@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T01:23:30.504900-03:00",
+ "generatedAt": "2026-08-07T01:23:46.322345-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "Cierres terminados — votación en minutos",
-  "detail": "Bullrich completó el cierre oficialista (~35 min): la ley «repara a cientos de miles de argentinos violentados» y «el Estado nunca más será enemigo de los ciudadanos». Capitanich plantea una última cuestión de privilegio y sigue la votación en general (nominal electrónica), luego en particular capítulo por capítulo. Manejo del fuego, el capítulo más ajustado."
+  "headline": "🔴 VOTANDO — y el oficialismo retiró también el capítulo de manejo del fuego",
+  "detail": "Sobre la hora, el miembro informante Coto retiró el capítulo 4 (manejo del fuego) además del 3 (tierras): el capítulo más resistido no llega a votarse. Queda una ley reducida a expropiaciones/ley Pierri, desalojos y registro. La votación en general (nominal electrónica) está en curso; Mayans ironizó: «de seis capítulos queda uno y medio, ¿por qué no retiran el proyecto?»."
  },
  "votes": [
   {
@@ -469,6 +469,14 @@
    "stance": "a_favor",
    "title": "Cierre oficialista — último discurso antes de votar",
    "detail": "«Escuchamos una Argentina que volvió 60 años para atrás»; defiende la ley como corrección de décadas en que «fue fácil quedarse con lo ajeno y no poder recuperar lo propio», citando la toma de Guernica (2020, +100 ha)."
+  },
+  {
+   "time": "01:21",
+   "type": "votacion",
+   "speaker": "Agustín Coto",
+   "bloc": "LLA",
+   "title": "🔥 El oficialismo retira TAMBIÉN el capítulo de manejo del fuego",
+   "detail": "Sobre la hora de la votación, el miembro informante incorpora «el retiro del capítulo cuarto» (ley de fuego 26.815) además del capítulo de tierras: la segunda gran baja de la noche ante la falta de votos. Se aprueban inserciones y abstenciones a mano alzada y la presidencia ordena la votación en general por medios electrónicos."
   }
  ],
  "context": {
