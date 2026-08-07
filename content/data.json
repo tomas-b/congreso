@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T00:06:09.143436-03:00",
+ "generatedAt": "2026-08-07T00:08:15.899694-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -9,8 +9,8 @@
  "updatedAt": "2026-08-06T21:50:00-03:00",
  "about": "El <b>Senado argentino</b> retomó (tras el cuarto intermedio del 16 de julio) la sesión por la ley de <b>«inviolabilidad de la propiedad privada»</b> (exp. PE-13/2026), proyecto ómnibus del Ejecutivo que llega al recinto por <b>quinta vez</b> y con ~20 versiones de dictamen. Reforma: <b>expropiaciones</b> (ley 21.499: interpretación restrictiva, indemnización a valor de mercado + lucro cesante con tope declarado del 30%, actualización IPC + tasa BNA), <b>desalojos exprés</b> (vía sumarísima contra usurpadores, restitución inmediata con caución juratoria), <b>ley de manejo del fuego</b> (26.815: elimina prohibiciones de venta/loteo post-incendio de 30–60 años), <b>registro de la propiedad</b> (digitalización, ventanilla única federal) y restablece la <b>ley Pierri</b>. El <b>capítulo de tierras rurales (extranjerización) fue retirado</b> la víspera tras presión de gobernadores y de la calle. Preside <b>Bartolomé Abdala</b> (presidente provisional; Villarruel ejerce el PE por viaje de Milei). Afuera hay <b>movilización y represión</b>.",
  "status": {
-  "headline": "Debate en curso — votación esperada pasada la medianoche",
-  "detail": "Sigue la lista de oradores (~39 anotados) con clima caldeado. Referencia temprana: la moción de vuelta a comisión fue derrotada 38–31. Ningún bloque llega solo al quórum de 37: LLA (21) depende de UCR, PRO y provinciales; el interbloque peronista (25) vota en contra."
+  "headline": "Cierres de bloque en curso — votación inminente",
+  "detail": "Terminó la lista de oradores: habla Mayans (cierre del interbloque peronista) y luego cierra el oficialismo antes de votar. Posiciones anunciadas: UP (25), Convicción Federal (3), Fte. Cívico (2), Movere (2) y Vigo votan en contra; los dialoguistas se parten por capítulo (Terenzi: sí a expropiaciones y registro, abstención en desalojos, no a fuego). La referencia sigue siendo el 38–31 de la vuelta a comisión; el capítulo de manejo del fuego es el de margen más ajustado."
  },
  "votes": [
   {
@@ -436,6 +436,21 @@
    "stance": "en_contra",
    "title": "Advertencia procedimental: «la versión que trajo el informante no la firmó nadie»",
    "detail": "Recuerda que el orden del día 104 es el dictamen del 20 de mayo (13 firmas) y que la versión final circulada 12:45 no tiene firmas; anticipa una votación en particular «artículo por artículo» con numeraciones incompatibles. Abre recordando el corralito de 2001 como «el mayor atropello a la propiedad privada» y las salidas oportunas de Sturzenegger y Bullrich de aquel gobierno."
+  },
+  {
+   "time": "23:53",
+   "type": "discurso",
+   "speaker": "Carolina Moisés",
+   "bloc": "CF",
+   "stance": "en_contra",
+   "title": "«La tierra es sagrada, no se negocia: se defiende»",
+   "detail": "Lee «La Argentina que yo quiero» (Chalchaleros) enviada por el gobernador Sáenz; repudia al canciller por decir que con esta ley «se podría vender una provincia»; reivindica a los gobernadores del norte que voltearon el capítulo de tierras y el derecho de consulta de los pueblos originarios. Anuncia: «Convicción Federal vota en contra»."
+  },
+  {
+   "time": "00:06",
+   "type": "procedimiento",
+   "title": "Comienzan los cierres de bloque",
+   "detail": "Terminada la lista de oradores, abre los cierres José Mayans (jefe del interbloque peronista); tras el cierre oficialista llegará la votación en general."
   }
  ],
  "context": {
@@ -1116,6 +1131,13 @@
    "start": "2026-08-07T03:05:49+00:00",
    "end": "2026-08-07T03:07:49+00:00",
    "label": "00:05–00:07",
+   "text": "¿Verdad? Eso fue el 6 de agosto de 1945. En total, en los dos bombardeos, el 9 de agosto se produjo el otro, murieron más de 300.000 personas prácticamente en un segundo. Ni siquiera se dieron cuenta, estamos hablando de población civil, que se levantó temprano para un día normal, así como nosotros hoy estamos acá, ni sabían que estaba por pasar eso. Lanzaron dos bombas nucleares. Y por eso digo que eso fue una fecha que el mundo no puede olvidar. Y el tema nace en la profecía de Isaías, cuando dice, un niño ha nacido un hijo se nos ha dado en esa profec Isa anuncia el nacimiento de Cristo tiene que ver esto con la bomba at El 16 de julio de 1945, el mundo experimenta la primera explosión nuclear. Y fíjense ustedes algunas coincidencias que tenemos. del 17 de julio hasta el 2 de agosto fue la reunión en Potsdam y ahora nosotros el 2 de agosto que es la patrona nuestra de mi ciudad, de la Virgen María de Los Ángeles yo digo las coincidencias porque el 17 de agosto le informan a Truman que tuvo éxito ¿saben cuál fue la palabra que le dijeron a Truman? le dijeron el niño ha nacido. Esa fue la palabra que le llevan a Truman para decirle que tuvieron suerte con la explosión nuclear que después iba a ser."
+  },
+  {
+   "id": "live_20260807_030752Z",
+   "start": "2026-08-07T03:07:52+00:00",
+   "end": "2026-08-07T03:09:52+00:00",
+   "label": "00:07–00:09",
    "text": null
   }
  ]
