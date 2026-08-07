@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T00:16:13.652859-03:00",
+ "generatedAt": "2026-08-07T00:18:06.225676-03:00",
  "session": {
   "title": "SESIÓN 06-08-26 — Senado de la Nación Argentina",
   "topic": "Ley de Inviolabilidad de la Propiedad Privada (PE-13/2026)",
@@ -451,6 +451,15 @@
    "type": "procedimiento",
    "title": "Comienzan los cierres de bloque",
    "detail": "Terminada la lista de oradores, abre los cierres José Mayans (jefe del interbloque peronista); tras el cierre oficialista llegará la votación en general."
+  },
+  {
+   "time": "00:15",
+   "type": "incidente",
+   "speaker": "José Mayans",
+   "bloc": "UP",
+   "stance": "en_contra",
+   "title": "Mayans agita el juicio político: «traición a la patria»",
+   "detail": "En su cierre — que abre con Hiroshima y la geopolítica de los recursos — acusa a Milei de violar la Constitución al autorizar presencia militar de EE.UU. sin el Congreso y lo declara «pasible de juicio político por traición a la patria»; cruce a gritos con una senadora que lo llama «golpista»."
   }
  ],
  "context": {
@@ -1166,7 +1175,7 @@
    "start": "2026-08-07T03:15:52+00:00",
    "end": "2026-08-07T03:17:52+00:00",
    "label": "00:15–00:17",
-   "text": null
+   "text": "cumplimiento de la constitución que este cipallo presidente está alterando. Esta es la realidad. Entonces viene con este esquema, con el esquema de Trump, de Netanyahu, al que no está con nosotros, le matamos, no importa si sea mujer, niño, le atrapamos el país, le metemos preso, le declaramos narcotrafico, cualquier cosa. Esto no va a terminar bien. Pero le firmo, no terminó bien en la Primera Guerra Mundial, no terminó bien en la Segunda Guerra Mundial, no terminó bien en la Guerra de Corea, no terminó bien en la Guerra de Vietnam, no va a terminar bien esto lamentablemente. Por eso los llamados del Papa a la racionalidad. Poder militar, poder económico. Y hacemos lo que queremos en el mundo hasta que aparezca el arma que no existe. Esto ya se repitió en la historia, ya se vio en la historia. Y entonces aplicamos la política del vale todo, que es lo que hace mi ley. Mi ley gobernó dos años sin presupuesto, hizo lo que quiso del presupuesto, nunca aparecieron acá los ministros. Para explicar la deuda, por ejemplo, para explicar lo del Banco Central, por ejemplo, para explicar lo del Fondo Monetario Internacional, por ejemplo, para explicar el Fondo de Garantía Sustentable, por ejemplo, nunca aparecieron en dos años. y al contrario, mandaron una ley a unibus, cuando no le salió, le dijo a todos los gobernadores, corruptos después aplicó la ley base, tuvo que comprar a un senador, que ahora está preso en Paraguay para ver si podía, lamentablemente, resultar el tema bueno, todas estas cosas que ha hecho el presidente"
   }
  ]
 }
